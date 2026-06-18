@@ -29813,6 +29813,13 @@
     "repo": "obsidian-ttrpg-community/Town-Forge"
   },
   {
+    "id": "txt-exporter",
+    "name": "TXT Exporter",
+    "author": "Lin Jun",
+    "description": "右键文件或文件夹导出为纯文本文件，支持保留目录层级和去除 HTML 标签 | Right-click a file or folder to export as plain text, with optional directory hierarchy preservation and HTML tag stripping",
+    "repo": "iamjunjun/txt-exporter"
+  },
+  {
     "id": "vim-cheatsheet",
     "name": "Vim Cheatsheet",
     "author": "Rafael Mehdiyev",
